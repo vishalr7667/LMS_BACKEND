@@ -36,7 +36,7 @@ const seedDB = async () => {
       name: 'Alex Chen',
       email: 'alex@email.com',
       password: 'password123',
-      role: 'subscriber',
+      role: 'user',
       subscription: { status: 'active', plan: 'monthly' },
     });
 
